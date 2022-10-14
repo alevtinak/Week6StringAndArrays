@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/RandomElement/bin/Debug/net6.0/RandomElement
+/Users/alyaklyusheva/Projects/RandomElement/bin/Debug/net6.0/RandomElement.deps.json
+/Users/alyaklyusheva/Projects/RandomElement/bin/Debug/net6.0/RandomElement.runtimeconfig.json
+/Users/alyaklyusheva/Projects/RandomElement/bin/Debug/net6.0/RandomElement.dll
+/Users/alyaklyusheva/Projects/RandomElement/bin/Debug/net6.0/RandomElement.pdb
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.dll
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/refint/RandomElement.dll
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.pdb
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/RandomElement.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/RandomElement/obj/Debug/net6.0/ref/RandomElement.dll

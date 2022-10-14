@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/NumberArrays/bin/Debug/net6.0/NumberArrays
+/Users/alyaklyusheva/Projects/NumberArrays/bin/Debug/net6.0/NumberArrays.deps.json
+/Users/alyaklyusheva/Projects/NumberArrays/bin/Debug/net6.0/NumberArrays.runtimeconfig.json
+/Users/alyaklyusheva/Projects/NumberArrays/bin/Debug/net6.0/NumberArrays.dll
+/Users/alyaklyusheva/Projects/NumberArrays/bin/Debug/net6.0/NumberArrays.pdb
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.dll
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/refint/NumberArrays.dll
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.pdb
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/NumberArrays.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/NumberArrays/obj/Debug/net6.0/ref/NumberArrays.dll

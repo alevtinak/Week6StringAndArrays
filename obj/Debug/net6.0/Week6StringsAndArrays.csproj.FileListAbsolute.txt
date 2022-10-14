@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/bin/Debug/net6.0/Week6StringsAndArrays
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/bin/Debug/net6.0/Week6StringsAndArrays.deps.json
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/bin/Debug/net6.0/Week6StringsAndArrays.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/bin/Debug/net6.0/Week6StringsAndArrays.dll
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/bin/Debug/net6.0/Week6StringsAndArrays.pdb
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.dll
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/refint/Week6StringsAndArrays.dll
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.pdb
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/Week6StringsAndArrays.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Week6StringsAndArrays/obj/Debug/net6.0/ref/Week6StringsAndArrays.dll
